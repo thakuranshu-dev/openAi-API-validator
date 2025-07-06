@@ -1,6 +1,6 @@
 # OpenAI API Validator
 
-A simple tool to validate and test OpenAI API keys and endpoints.
+A simple, Python-based tool to validate and test OpenAI API keys and endpoints.
 
 ## Features
 
@@ -20,16 +20,16 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python validator.py --api-key YOUR_OPENAI_API_KEY
+python api_validator.py
 ```
 
 ## Configuration
 
-- Set your API key via command line or environment variable `OPENAI_API_KEY`.
+- Set your API key(s) in api.txt`.
 
 ## License
 
-MIT License
+This project currently unlicenced.
 
 ## Disclaimer
 
