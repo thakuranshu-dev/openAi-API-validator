@@ -12,8 +12,8 @@ A simple, Python-based tool to validate and test OpenAI API keys and endpoints.
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/openai-api-validator.git
-cd openai-api-validator
+git clone https://github.com/thakuranshu-dev/openAi-API-validator.git
+cd openAi-API-validator
 pip install -r requirements.txt
 ```
 
