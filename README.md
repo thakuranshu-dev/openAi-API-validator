@@ -25,7 +25,7 @@ python api_validator.py
 
 ## Configuration
 
-- Set your API key(s) in api.txt`.
+- Set your API key(s) in `api.txt`.
 
 ## License
 
